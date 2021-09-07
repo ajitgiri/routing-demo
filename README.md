@@ -31,3 +31,15 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 REFERAL URL: https://www.youtube.com/watch?v=6sdpyU9Zwns
              
 ### ======= END PRACTICING =======###
+
+## <<<<<< ... PUSHED TO THE GITHUB ... >>>>>>
+Right click inside the root folder and open the Gitbase
+Git init
+Go to the GitHub , create a public repository with same name
+Set the remote repo to pus the project as: 
+    git remote add origin https://github.com/ajitgiri/routing-demo.git
+git add .
+git commit -m "initial commit"
+git push --set-upstream origin master
+
+## <<<<<< ... PUSHED TO THE GITHUB ... >>>>>>
